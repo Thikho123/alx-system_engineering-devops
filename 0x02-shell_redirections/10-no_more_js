@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -typ { -name "'.js" -delete
+find . -typ f -name "'.js" -delete
